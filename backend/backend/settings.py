@@ -6,7 +6,7 @@ SECRET_KEY = 'django-insecure-w*-i$4-dwn&tbeid9ucs2j)4q%h*3ek*ndu1u8^c&vz-(6=9(&
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['reinoro-ecommerce.onrender.com']
+ALLOWED_HOSTS = ['*']
 
 # ---------------- APPS ----------------
 INSTALLED_APPS = [

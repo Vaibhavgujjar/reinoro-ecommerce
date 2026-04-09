@@ -9,7 +9,7 @@ client = razorpay.Client(auth=("YOUR_KEY", "YOUR_SECRET"))
 
 @api_view(['GET'])
 def home(request):
-    return Response({"message": "Rein Oro Backend Running 🚀"})
+    return Response({"message": "Rein Oro Backend Live 🚀"})
 
 # ---------------- PRODUCTS ----------------
 @api_view(['GET'])
